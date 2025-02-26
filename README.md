@@ -1,4 +1,4 @@
-# 💲 PicPay Simplificado
+<h1 align="center">💲 PicPay Simplificado</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c8a6e18a-39c2-4b19-b5d5-fc8373d689f2">
